@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 50px;
+    font-family: Georgia, serif;
+}
+#border{
+    border-left: 2px solid;
+    padding-left: 10px;
+}
+h1 span{
+    color: #FFAD5A;
+    font-family: Georgia, serif;
+}
+.half-width img{
+    width: 426px;
+    height: 623px;
+    left: 807px;
+    top: -80px;
+    
+}
+.anchor-button{
+    text-decoration: none;
+    background: #FF5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+p{
+    color: dimgray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia, serif;
+}
+h2 span{
+    color: #FFAD5A;
+}
+
+
+.third-width{
+    width: 23%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.mission-2022 div{
+    height: 70%;
+    border-radius: 30px;
+
+}
+img{
+    height: 100px;
+    width: 100px;
+    padding-top: 20px;
+}
+#gray{
+    background-color: #f2f3f3;
+}
+#pink{
+    background-color: rgb(253, 213, 236);
+}
+#brown{
+    background-color: #fdefc8;
+}
+#coding{
+    width: 400px;
+height: 400px;
+left: 158px;
+top: 1185px;
+}
+h3{
+    font-size: 30px;
+}
+h3 span{
+    color: #FFAD5A;
+
+}
+#footer{
+    text-align: center;
+    background-color: black;
+}
+#footer-tag{
+    color:white;
+    padding-top: 20px;
+    font-family:cursive;
+
+}
+#footer-tag span{
+    color: tomato;
+}
